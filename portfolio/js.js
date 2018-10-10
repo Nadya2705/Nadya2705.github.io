@@ -1,0 +1,10 @@
+body{
+	height:200px;
+}
+.p-0{
+	padding: 0;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	height: 50px;
+	width: 50px;
+}
